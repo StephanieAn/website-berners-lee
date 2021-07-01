@@ -1,0 +1,77 @@
+body{
+    background-color: #ebebeb;
+    text-align: center;
+    max-width: 90%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Open sans", sans-serif;
+    font-weight: 300px 400px 800px;
+    display: swap;
+}
+h1{
+    color: #dd5555;
+    font-size: 1.7em;
+    font-weight: bolder;
+}
+h2, h3, a{
+    color: #7d7d7d;
+    font-weight: normal;
+}
+p{
+    color: #7d7d7d;
+    text-align: justify;
+    font-weight: lighter;
+}
+#intro{
+    background-color: #ffffff;
+    margin: 3%;
+    padding: 3%;
+}
+#intro img{
+    border: 4px solid #cccccc;
+    border-radius: 50%;
+}
+.see{
+    border: 1px solid #dd5555;
+    border-radius: 5%;
+    background-color: #dd5555;
+    color: white;
+    font-family: "Open sans", sans-serif;
+    font-size: 1.1em;
+    text-align: center;
+}
+.see:link{
+    text-decoration: none;
+}
+#social{
+    background-color: #ffffff;
+    margin: 3%;
+    padding: 3%;
+    size: 1.1em;
+    font-size: 1.1em;
+}
+li{
+    list-style-type: none;
+}
+.col{
+    display: inline-block;
+}
+#movie{
+    background-color: #ffffff;
+    margin: 3%;
+    padding: 3%;
+}
+.odyssey{
+    margin: 10%;
+    vertical-align: baseline;
+}
+.odyssey img{
+    float: left;
+}
+.hulot{
+    margin: 10%;
+    vertical-align: baseline;
+}
+.hulot img{
+    float: left;
+}
