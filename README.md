@@ -31,6 +31,7 @@ The media queries are used to this part. There are in the CSS file (at the end o
 
 The current issue is about the social section with the small and the medium screen. When the screen is smaller than 300px, the links and icons aren't centered on the page. And when the screen is medium (between 300 px and 768px), the three links and icons are side by side instead of below each other.
 
-link to the page :
+Link to the page :
 -------------------
+You can see the result with this link below.
 https://stephaniean.github.io/website-berners-lee/
