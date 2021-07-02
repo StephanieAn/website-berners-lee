@@ -140,7 +140,7 @@ i .fab{
     }
     .grid-item, .grid-item1{
         text-align: center;
-   
+        padding-left: 0px;
     }
     #movie{
         margin: 3%;
@@ -152,7 +152,12 @@ i .fab{
     }
     .odyssey p, .hulot p, .alien p{
         margin-left: 5%;
-       }
+        font-size: 0.5em;
+    }
+    .odyssey img, .hulot img, .alien img{
+        float: none;
+        width: 4em;
+    }
 }
 @media screen and (min-width: 300px) and (max-width: 768px){
     body{
@@ -165,22 +170,22 @@ i .fab{
         padding: 3%;
     }
    #social{
-    margin: 3%;
-    padding: 3%;
+        margin: 3%;
+        padding: 3%;
    }
    .container{
-    grid-column-gap: 2em;
+        grid-column-gap: 2em;
    }
    #movie{
-    margin: 3%;
-    padding: 3%;
+        margin: 3%;
+        padding: 3%;
    }
    .item{
-    padding-top: 5%;
-    padding-bottom: 5%;
+        padding-top: 5%;
+        padding-bottom: 5%;
    }
    .odyssey p, .hulot p, .alien p{
-    margin-left: 45%;
+        margin-left: 45%;
    }
 }
 @media screen and (min-width: 768px) {
@@ -193,6 +198,13 @@ i .fab{
         margin: 3%;
         padding: 3%;
     }
+    #social{
+        margin: 3%;
+        padding: 3%;
+    }
+    .container{
+        grid-column-gap: 2em;
+   }
     #movie{
         margin: 3%;
         padding: 3%;
