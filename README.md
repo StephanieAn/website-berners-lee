@@ -33,5 +33,5 @@ The current issue is about the social section with the small and the medium scre
 
 Link to the page :
 -------------------
-You can see the result with this link below.
+You can see the result with this link ->
 https://stephaniean.github.io/website-berners-lee/
